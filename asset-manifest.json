@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/opensaas/static/css/main.db8aef51.css",
+    "main.js": "/opensaas/static/js/main.9a96c71e.js",
+    "static/js/488.9a1b656f.chunk.js": "/opensaas/static/js/488.9a1b656f.chunk.js",
+    "index.html": "/opensaas/index.html",
+    "main.db8aef51.css.map": "/opensaas/static/css/main.db8aef51.css.map",
+    "main.9a96c71e.js.map": "/opensaas/static/js/main.9a96c71e.js.map",
+    "488.9a1b656f.chunk.js.map": "/opensaas/static/js/488.9a1b656f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db8aef51.css",
+    "static/js/main.9a96c71e.js"
+  ]
+}
